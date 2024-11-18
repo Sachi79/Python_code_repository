@@ -1,2 +1,2 @@
 # Python_code_repository
-Python Code snipped
+Repository to build python code snippets
